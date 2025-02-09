@@ -1,4 +1,4 @@
-# Ring around the Rosies 
+# Ring Around the Rosies 
 
 ![the challenge](https://github.com/user-attachments/assets/1504b573-4c7d-4112-8ceb-8324d6ab9e2f)
 
