@@ -41,5 +41,5 @@ for w in flag_ord :
 
 print(flag)
 # flag = FLATZ{ROUND_DND_ROUND_WE_GOO}
-# 4 fama wallet D wa9teli lezmha to93od 4 ( DND = 4ND ) sinon kol lettre minuscule f cipher texte twalli minuscule zeda fel flag
-# output shoudl be FLATZ{ROUND_4ND_ROUND_WE_GOO}
+# 1 wallet A w 4 fama wallet D wa9teli lezmha to93od 4 ( DND = 4ND ) sinon kol lettre minuscule f cipher texte twalli minuscule zeda fel flag
+# output shoudl be FL1TZ{ROUND_4ND_ROUND_WE_GOO}
